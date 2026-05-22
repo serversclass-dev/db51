@@ -44,5 +44,23 @@
       "islamic"
     ],
     "server_num": 51
+  },
+  "hanadi": {
+    "username": "hanadi",
+    "password": "093455Ah@",
+    "student_type": "علمي",
+    "telegram_user_id": "8326986500",
+    "telegram_username": null,
+    "telegram_first_name": "Hanadii",
+    "profile_photo_url": null,
+    "session_id": "98024c60-8525-4bd5-95ef-cbc4cb97cf8f",
+    "created_at": "2026-05-22T14:51:21.691113",
+    "verified": true,
+    "last_login": "2026-05-22T14:51:25.778373",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 51
   }
 }
